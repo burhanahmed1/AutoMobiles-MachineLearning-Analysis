@@ -33,6 +33,16 @@ jupyter notebook AutoMobile-ML.ipynb
 ## Dataset
 The dataset used in this analysis is AutoMobile-Dataset-3.csv, which contains various features related to automobiles such as make, body style, engine type, horsepower, and price.
 
+## R^2 scores
+<div align="center">
+  
+  **R^2** scores of the **Linear Regression** model created using different degrees of polynomial features, ranging from 1 to 4.
+  <img src="src/R2_1.png" alt="R2_polynomial-features" width="800"/>
+  
+  **R^2** values of **Ridge Regression** model for training and testing sets with respect to the values of alpha.
+  <img src="src/R2_2.png" alt="R2_for-alphas" width="800"/>
+</div>
+
 ## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests.
 
