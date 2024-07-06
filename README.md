@@ -19,7 +19,7 @@ This repository contains the analysis and machine learning model implementation 
 ## Getting Started
 To get started with this project, clone the repository and install the necessary dependencies:
 ```bash
-git clone https://github.com/your-username/Automobiles-MachineLearning-Analysis.git
+git clone https://github.com/burhanahmed1/Automobiles-MachineLearning-Analysis.git
 cd Automobiles-MachineLearning-Analysis
 pip install -r requirements.txt
 ```
