@@ -16,6 +16,12 @@ This repository contains the analysis and machine learning model implementation 
 - **Libraries**: Pandas, NumPy, Scikit-Learn
 - **Tools**: Jupyter Notebook
 
+## R-squared (R²) Values:
+- Linear Regression: 0.3636
+- Multiple Linear Regression: 0.6619
+- Polynomial Regression (degree 5): 0.5568
+- Ridge Regression (best alpha=10000): 0.8412
+
 ## Getting Started
 To get started with this project, clone the repository and install the necessary dependencies:
 ```bash
